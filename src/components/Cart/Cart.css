@@ -1,0 +1,30 @@
+.cart {
+  width: 100%;
+  max-width: 330px;
+  background-color: white;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 100px 0 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.cartItems {
+  overflow-y: scroll;
+  padding: 0 20px;
+}
+
+.gallery-wrapper::-webkit-scrollbar {
+  display: none;
+}
+
+.cartResume {
+  text-align: center;
+  padding-top: 10px;
+}
+.esconderMenu {
+  display: none;
+}
