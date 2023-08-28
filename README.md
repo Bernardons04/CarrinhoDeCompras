@@ -8,7 +8,7 @@ Readme.Github
 
 ### As funcionalidades incluem adicionar e remover Itens do carrinho de compras.
 
-### Essa aplicação também consome a API do mercado livre para fazer a busca pelo valor pesquisado na SearchBar
+### Essa aplicação também consome a API do mercado livre para fazer a busca pelo valor pesquisado na SearchBar.
 
 ### 
 
